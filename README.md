@@ -1,10 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/flaing/chanda/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+```markdown
 
 # 壹‧五欲六塵的定義
 
@@ -30,7 +24,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-　　　　一、財欲
+## 一、財欲
 
  
 
@@ -42,7 +36,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-　　　　二、色欲
+## 二、色欲
 
  
 
@@ -58,7 +52,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-　　　　三、名欲
+## 三、名欲
 
  
 
@@ -70,7 +64,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-　　　　四、食欲
+## 四、食欲
 
  
 
@@ -82,7 +76,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-　　　　五、睡欲
+## 五、睡欲
 
  
 
@@ -112,7 +106,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-##　一、色塵
+## 一、色塵
 
  
 
@@ -198,7 +192,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
  
 
-## 肆‧結語
+# 肆‧結語
 
  
 
@@ -206,20 +200,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ...................................................................................
 
-一、試述五欲、六塵的內容。
+## 一、試述五欲、六塵的內容。
 
-二、五欲、六塵有何過患？
+## 二、五欲、六塵有何過患？
 
-三、我們對五欲六塵應該抱持什麼態度？
+## 三、我們對五欲六塵應該抱持什麼態度？
 
 ...................................................................................
 
- 
+```
 
 
 
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -235,7 +229,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
