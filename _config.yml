@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 pre {
     white-space: pre-wrap;
 }
+word-wrap: break-word;
